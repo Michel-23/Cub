@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC/CUB/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\PC\\CUB\\main.cpp",
+  "file": "C:/Users/PC/CUB/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/CUB/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -std=c++17 -g -o CMakeFiles\\main.dir\\Realisation.cpp.obj -c C:\\Users\\PC\\CUB\\Realisation.cpp",
+  "file": "C:/Users/PC/CUB/Realisation.cpp",
+  "output": "CMakeFiles/main.dir/Realisation.cpp.obj"
+}
+]
